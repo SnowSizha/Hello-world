@@ -1,2 +1,2 @@
 # Hello-world
-This is just a test and nothing more,. Yet!
+Now we are in the preparation state
